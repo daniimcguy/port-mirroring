@@ -20,3 +20,4 @@ The .bat file can be used to simplify execution. Make sure to edit the file to r
 Alternatively, if you don't want to use the .bat, you can simply copy the script content directly into a PowerShell session on the target machine.
 
     ⚠ Note on corporate environments: Some corporate devices or IT-managed networks restrict PowerShell script execution entirely (due to Group Policies or restricted execution policies). If that's the case, this method unfortunately cannot be used unless temporary permissions are granted or execution policies are modified.
+<img width="766" height="611" alt="image" src="https://github.com/user-attachments/assets/b8daae09-736b-4f50-812d-6dd60c90ea70" />
